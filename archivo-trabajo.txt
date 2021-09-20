@@ -1,2 +1,3 @@
-aloh
-modificacion
+#!/bin/python3
+# esto es un comentario, el de arriba no
+print("hola mundo")
